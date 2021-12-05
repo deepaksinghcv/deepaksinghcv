@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **deepaksinghcv/deepaksinghcv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+I'm a Graduate Research Student at Center for Visual Information Technology(CVIT) Lab, IIIT-Hyderabad. 
+
+I'm currently looking for full-time job opportunities on roles concerning Computer Vision, Deep Learning, Machine Learning.
+You may visit deepaksinghcv.github.io for more details.
+
+Cheers :)
